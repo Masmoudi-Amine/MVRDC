@@ -1,0 +1,6 @@
+========== NEIGHBORHOOD SCORES ==========
+Swap (N1): 1
+Relocate (N2): 1
+Remove-Insert (N4): 2
+Segment Shift (N3): 11
+==============================================

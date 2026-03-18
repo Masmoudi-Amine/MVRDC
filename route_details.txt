@@ -1,0 +1,1048 @@
+=== DETAILED ROUTE ANALYSIS ===
+
+Vehicle 6 (Fresh)
+Route: Depot(0) -> Customer 153
+   Travel Time: 15.2971
+   Arrival: 15.2971 (Ready: 15, Due: 615) ?
+   Wait Time: 0
+   Service: 10 units (15.2971 to 25.2971)
+ -> Customer 49
+   Travel Time: 6.40312
+   Arrival: 31.7002 (Ready: 21, Due: 621) ?
+   Wait Time: 0
+   Service: 10 units (31.7002 to 41.7002)
+ -> Customer 149
+   Travel Time: 26.0768
+   Arrival: 67.777 (Ready: 44, Due: 644) ?
+   Wait Time: 0
+   Service: 10 units (67.777 to 77.777)
+ -> Customer 42
+   Travel Time: 23.3238
+   Arrival: 101.101 (Ready: 53, Due: 653) ?
+   Wait Time: 0
+   Service: 10 units (101.101 to 111.101)
+ -> Customer 54
+   Travel Time: 67.2086
+   Arrival: 178.309 (Ready: 24, Due: 624) ?
+   Wait Time: 0
+   Service: 10 units (178.309 to 188.309)
+ -> Customer 142
+   Travel Time: 32.0156
+   Arrival: 220.325 (Ready: 10, Due: 610) ?
+   Wait Time: 0
+   Service: 10 units (220.325 to 230.325)
+ -> Customer 136
+   Travel Time: 24.7386
+   Arrival: 255.064 (Ready: 219, Due: 819) ?
+   Wait Time: 0
+   Service: 10 units (255.064 to 265.064)
+ -> Customer 3
+   Travel Time: 3
+   Arrival: 268.064 (Ready: 167, Due: 767) ?
+   Wait Time: 0
+   Service: 10 units (268.064 to 278.064)
+ -> Customer 43
+   Travel Time: 2
+   Arrival: 280.064 (Ready: 74, Due: 674) ?
+   Wait Time: 0
+   Service: 10 units (280.064 to 290.064)
+ -> Customer 180
+   Travel Time: 1
+   Arrival: 291.064 (Ready: 118, Due: 718) ?
+   Wait Time: 0
+   Service: 10 units (291.064 to 301.064)
+ -> Customer 72
+   Travel Time: 28.0179
+   Arrival: 329.082 (Ready: 300, Due: 900) ?
+   Wait Time: 0
+   Service: 10 units (329.082 to 339.082)
+ -> Customer 182
+   Travel Time: 9.05539
+   Arrival: 348.137 (Ready: 33, Due: 633) ?
+   Wait Time: 0
+   Service: 10 units (348.137 to 358.137)
+ -> Customer 57
+   Travel Time: 6.32456
+   Arrival: 364.461 (Ready: 39, Due: 639) ?
+   Wait Time: 0
+   Service: 10 units (364.461 to 374.461)
+ -> Customer 40
+   Travel Time: 4.47214
+   Arrival: 378.934 (Ready: 43, Due: 643) ?
+   Wait Time: 0
+   Service: 10 units (378.934 to 388.934)
+ -> Customer 31
+   Travel Time: 36.1248
+   Arrival: 425.058 (Ready: 71, Due: 671) ?
+   Wait Time: 0
+   Service: 10 units (425.058 to 435.058)
+ -> Customer 52
+   Travel Time: 5
+   Arrival: 440.058 (Ready: 437, Due: 1037) ?
+   Wait Time: 0
+   Service: 10 units (440.058 to 450.058)
+ -> Customer 74
+   Travel Time: 9.21954
+   Arrival: 459.278 (Ready: 526, Due: 1126) ?
+   Wait Time: 66.7221
+   Service: 10 units (526 to 536)
+ -> Customer 101
+   Travel Time: 17.1172
+   Arrival: 553.117 (Ready: 542, Due: 1142) ?
+   Wait Time: 0
+   Service: 10 units (553.117 to 563.117)
+ -> Customer 53
+   Travel Time: 10
+   Arrival: 573.117 (Ready: 159, Due: 759) ?
+   Wait Time: 0
+   Service: 10 units (573.117 to 583.117)
+ -> Customer 12
+   Travel Time: 57.8014
+   Arrival: 640.919 (Ready: 41, Due: 641) ?
+   Wait Time: 0
+   Service: 10 units (640.919 to 650.919)
+ -> Customer 143
+   Travel Time: 5.09902
+   Arrival: 656.018 (Ready: 93, Due: 693) ?
+   Wait Time: 0
+   Service: 10 units (656.018 to 666.018)
+ -> Customer 173
+   Travel Time: 8.06226
+   Arrival: 674.08 (Ready: 165, Due: 765) ?
+   Wait Time: 0
+   Service: 10 units (674.08 to 684.08)
+ -> Customer 114
+   Travel Time: 21.3776
+   Arrival: 705.457 (Ready: 405, Due: 1005) ?
+   Wait Time: 0
+   Service: 10 units (705.457 to 715.457)
+ -> Customer 22
+   Travel Time: 42.19
+   Arrival: 757.648 (Ready: 528, Due: 1128) ?
+   Wait Time: 0
+   Service: 10 units (757.648 to 767.648)
+ -> Customer 198
+   Travel Time: 35.3412
+   Arrival: 802.989 (Ready: 462, Due: 1062) ?
+   Wait Time: 0
+   Service: 10 units (802.989 to 812.989)
+ -> Customer 111
+   Travel Time: 29.1548
+   Arrival: 842.143 (Ready: 383, Due: 983) ?
+   Wait Time: 0
+   Service: 10 units (842.143 to 852.143)
+ -> Customer 145
+   Travel Time: 18.3848
+   Arrival: 870.528 (Ready: 794, Due: 1394) ?
+   Wait Time: 0
+   Service: 10 units (870.528 to 880.528)
+ -> Customer 91
+   Travel Time: 10.8167
+   Arrival: 891.345 (Ready: 814, Due: 1414) ?
+   Wait Time: 0
+   Service: 10 units (891.345 to 901.345)
+ -> Customer 70
+   Travel Time: 42.9535
+   Arrival: 944.298 (Ready: 1115, Due: 1715) ?
+   Wait Time: 170.702
+   Service: 10 units (1115 to 1125)
+ -> Customer 106
+   Travel Time: 13.3417
+   Arrival: 1138.34 (Ready: 569, Due: 1169) ?
+   Wait Time: 0
+   Service: 10 units (1138.34 to 1148.34)
+ -> Customer 157
+   Travel Time: 51.4296
+   Arrival: 1199.77 (Ready: 1404, Due: 2004) ?
+   Wait Time: 204.229
+   Service: 10 units (1404 to 1414)
+ -> Customer 33
+   Travel Time: 13
+   Arrival: 1427 (Ready: 1096, Due: 1696) ?
+   Wait Time: 0
+   Service: 10 units (1427 to 1437)
+ -> Customer 107
+   Travel Time: 20.2237
+   Arrival: 1457.22 (Ready: 956, Due: 1556) ?
+   Wait Time: 0
+   Service: 10 units (1457.22 to 1467.22)
+ -> Customer 76
+   Travel Time: 86.977
+   Arrival: 1554.2 (Ready: 1324, Due: 1924) ?
+   Wait Time: 0
+   Service: 10 units (1554.2 to 1564.2)
+ -> Customer 8
+   Travel Time: 22.0907
+   Arrival: 1586.29 (Ready: 1195, Due: 1795) ?
+   Wait Time: 0
+   Service: 10 units (1586.29 to 1596.29)
+ -> Customer 34
+   Travel Time: 23.3452
+   Arrival: 1619.64 (Ready: 1272, Due: 1872) ?
+   Wait Time: 0
+   Service: 10 units (1619.64 to 1629.64)
+ -> Customer 135
+   Travel Time: 30.1496
+   Arrival: 1659.79 (Ready: 1167, Due: 1767) ?
+   Wait Time: 0
+   Service: 10 units (1659.79 to 1669.79)
+ -> Customer 93
+   Travel Time: 30.5287
+   Arrival: 1700.32 (Ready: 1263, Due: 1863) ?
+   Wait Time: 0
+   Service: 10 units (1700.32 to 1710.32)
+ -> Customer 193
+   Travel Time: 24.5153
+   Arrival: 1734.83 (Ready: 1360, Due: 1960) ?
+   Wait Time: 0
+   Service: 10 units (1734.83 to 1744.83)
+ -> Customer 19
+   Travel Time: 9
+   Arrival: 1753.83 (Ready: 1401, Due: 2001) ?
+   Wait Time: 0
+   Service: 10 units (1753.83 to 1763.83)
+ -> Customer 146
+   Travel Time: 20.1246
+   Arrival: 1783.95 (Ready: 1690, Due: 2290) ?
+   Wait Time: 0
+   Service: 10 units (1783.95 to 1793.95)
+ -> Customer 83
+   Travel Time: 68
+   Arrival: 1861.95 (Ready: 1752, Due: 2352) ?
+   Wait Time: 0
+   Service: 10 units (1861.95 to 1871.95)
+ -> Customer 148
+   Travel Time: 17.0294
+   Arrival: 1888.98 (Ready: 1855, Due: 2455) ?
+   Wait Time: 0
+   Service: 10 units (1888.98 to 1898.98)
+ -> Depot(0)
+   Return Travel Time: 70.8025
+   Return to Depot: 1969.79
+   Max Route Duration: 2535 ?
+   Capacity: Fresh=679/950, Frozen=231/0 ?
+   ROUTE FEASIBILITY: FEASIBLE ?
+   Total Route Time: 1898.98
+
+Vehicle 8 (Fresh)
+Route: Depot(0) -> Customer 140
+   Travel Time: 21.3776
+   Arrival: 21.3776 (Ready: 21, Due: 621) ?
+   Wait Time: 0
+   Service: 10 units (21.3776 to 31.3776)
+ -> Customer 100
+   Travel Time: 19.6977
+   Arrival: 51.0753 (Ready: 32, Due: 632) ?
+   Wait Time: 0
+   Service: 10 units (51.0753 to 61.0753)
+ -> Customer 37
+   Travel Time: 3.60555
+   Arrival: 64.6808 (Ready: 35, Due: 635) ?
+   Wait Time: 0
+   Service: 10 units (64.6808 to 74.6808)
+ -> Customer 9
+   Travel Time: 4.12311
+   Arrival: 78.8039 (Ready: 39, Due: 639) ?
+   Wait Time: 0
+   Service: 10 units (78.8039 to 88.8039)
+ -> Customer 59
+   Travel Time: 6.32456
+   Arrival: 95.1285 (Ready: 47, Due: 647) ?
+   Wait Time: 0
+   Service: 10 units (95.1285 to 105.128)
+ -> Customer 177
+   Travel Time: 29.2062
+   Arrival: 134.335 (Ready: 72, Due: 672) ?
+   Wait Time: 0
+   Service: 10 units (134.335 to 144.335)
+ -> Customer 128
+   Travel Time: 6.7082
+   Arrival: 151.043 (Ready: 78, Due: 678) ?
+   Wait Time: 0
+   Service: 10 units (151.043 to 161.043)
+ -> Customer 85
+   Travel Time: 20.3961
+   Arrival: 181.439 (Ready: 65, Due: 665) ?
+   Wait Time: 0
+   Service: 10 units (181.439 to 191.439)
+ -> Customer 45
+   Travel Time: 2.82843
+   Arrival: 194.267 (Ready: 66, Due: 666) ?
+   Wait Time: 0
+   Service: 10 units (194.267 to 204.267)
+ -> Customer 99
+   Travel Time: 24.0832
+   Arrival: 228.351 (Ready: 174, Due: 774) ?
+   Wait Time: 0
+   Service: 10 units (228.351 to 238.351)
+ -> Customer 168
+   Travel Time: 3
+   Arrival: 241.351 (Ready: 122, Due: 722) ?
+   Wait Time: 0
+   Service: 10 units (241.351 to 251.351)
+ -> Customer 94
+   Travel Time: 3.16228
+   Arrival: 254.513 (Ready: 218, Due: 818) ?
+   Wait Time: 0
+   Service: 10 units (254.513 to 264.513)
+ -> Customer 151
+   Travel Time: 2.23607
+   Arrival: 266.749 (Ready: 267, Due: 867) ?
+   Wait Time: 0.251106
+   Service: 10 units (267 to 277)
+ -> Customer 109
+   Travel Time: 4.47214
+   Arrival: 281.472 (Ready: 372, Due: 972) ?
+   Wait Time: 90.5279
+   Service: 10 units (372 to 382)
+ -> Customer 195
+   Travel Time: 54.3415
+   Arrival: 436.342 (Ready: 37, Due: 637) ?
+   Wait Time: 0
+   Service: 10 units (436.342 to 446.342)
+ -> Customer 150
+   Travel Time: 45.8803
+   Arrival: 492.222 (Ready: 357, Due: 957) ?
+   Wait Time: 0
+   Service: 10 units (492.222 to 502.222)
+ -> Customer 187
+   Travel Time: 3.60555
+   Arrival: 505.827 (Ready: 302, Due: 902) ?
+   Wait Time: 0
+   Service: 10 units (505.827 to 515.827)
+ -> Customer 130
+   Travel Time: 4
+   Arrival: 519.827 (Ready: 246, Due: 846) ?
+   Wait Time: 0
+   Service: 10 units (519.827 to 529.827)
+ -> Customer 46
+   Travel Time: 42.9418
+   Arrival: 572.769 (Ready: 313, Due: 913) ?
+   Wait Time: 0
+   Service: 10 units (572.769 to 582.769)
+ -> Customer 159
+   Travel Time: 1.41421
+   Arrival: 584.183 (Ready: 219, Due: 819) ?
+   Wait Time: 0
+   Service: 10 units (584.183 to 594.183)
+ -> Customer 181
+   Travel Time: 17.4642
+   Arrival: 611.648 (Ready: 77, Due: 677) ?
+   Wait Time: 0
+   Service: 10 units (611.648 to 621.648)
+ -> Customer 122
+   Travel Time: 5
+   Arrival: 626.648 (Ready: 384, Due: 984) ?
+   Wait Time: 0
+   Service: 10 units (626.648 to 636.648)
+ -> Customer 77
+   Travel Time: 2
+   Arrival: 638.648 (Ready: 336, Due: 936) ?
+   Wait Time: 0
+   Service: 10 units (638.648 to 648.648)
+ -> Customer 35
+   Travel Time: 2
+   Arrival: 650.648 (Ready: 79, Due: 679) ?
+   Wait Time: 0
+   Service: 10 units (650.648 to 660.648)
+ -> Customer 164
+   Travel Time: 2.23607
+   Arrival: 662.884 (Ready: 125, Due: 725) ?
+   Wait Time: 0
+   Service: 10 units (662.884 to 672.884)
+ -> Customer 104
+   Travel Time: 3.16228
+   Arrival: 676.046 (Ready: 177, Due: 777) ?
+   Wait Time: 0
+   Service: 10 units (676.046 to 686.046)
+ -> Customer 25
+   Travel Time: 3.16228
+   Arrival: 689.208 (Ready: 230, Due: 830) ?
+   Wait Time: 0
+   Service: 10 units (689.208 to 699.208)
+ -> Customer 10
+   Travel Time: 2.82843
+   Arrival: 702.037 (Ready: 281, Due: 881) ?
+   Wait Time: 0
+   Service: 10 units (702.037 to 712.037)
+ -> Customer 20
+   Travel Time: 17.6918
+   Arrival: 729.728 (Ready: 265, Due: 865) ?
+   Wait Time: 0
+   Service: 10 units (729.728 to 739.728)
+ -> Customer 171
+   Travel Time: 44.2832
+   Arrival: 784.012 (Ready: 192, Due: 792) ?
+   Wait Time: 0
+   Service: 10 units (784.012 to 794.012)
+ -> Customer 186
+   Travel Time: 41.1461
+   Arrival: 835.158 (Ready: 406, Due: 1006) ?
+   Wait Time: 0
+   Service: 10 units (835.158 to 845.158)
+ -> Customer 13
+   Travel Time: 66.1211
+   Arrival: 911.279 (Ready: 1107, Due: 1707) ?
+   Wait Time: 195.721
+   Service: 10 units (1107 to 1117)
+ -> Customer 137
+   Travel Time: 16.0312
+   Arrival: 1133.03 (Ready: 805, Due: 1405) ?
+   Wait Time: 0
+   Service: 10 units (1133.03 to 1143.03)
+ -> Customer 71
+   Travel Time: 17.4642
+   Arrival: 1160.5 (Ready: 695, Due: 1295) ?
+   Wait Time: 0
+   Service: 10 units (1160.5 to 1170.5)
+ -> Customer 11
+   Travel Time: 1.41421
+   Arrival: 1171.91 (Ready: 1134, Due: 1734) ?
+   Wait Time: 0
+   Service: 10 units (1171.91 to 1181.91)
+ -> Customer 96
+   Travel Time: 71.007
+   Arrival: 1252.92 (Ready: 1248, Due: 1848) ?
+   Wait Time: 0
+   Service: 10 units (1252.92 to 1262.92)
+ -> Customer 2
+   Travel Time: 21.5407
+   Arrival: 1284.46 (Ready: 1344, Due: 1944) ?
+   Wait Time: 59.5426
+   Service: 10 units (1344 to 1354)
+ -> Customer 185
+   Travel Time: 14.3178
+   Arrival: 1368.32 (Ready: 1442, Due: 2042) ?
+   Wait Time: 73.6822
+   Service: 10 units (1442 to 1452)
+ -> Customer 141
+   Travel Time: 9.84886
+   Arrival: 1461.85 (Ready: 1422, Due: 2022) ?
+   Wait Time: 0
+   Service: 10 units (1461.85 to 1471.85)
+ -> Customer 73
+   Travel Time: 34.7131
+   Arrival: 1506.56 (Ready: 1050, Due: 1650) ?
+   Wait Time: 0
+   Service: 10 units (1506.56 to 1516.56)
+ -> Customer 120
+   Travel Time: 18.0278
+   Arrival: 1534.59 (Ready: 1511, Due: 2111) ?
+   Wait Time: 0
+   Service: 10 units (1534.59 to 1544.59)
+ -> Customer 39
+   Travel Time: 25.318
+   Arrival: 1569.91 (Ready: 1650, Due: 2250) ?
+   Wait Time: 80.0923
+   Service: 10 units (1650 to 1660)
+ -> Depot(0)
+   Return Travel Time: 37.108
+   Return to Depot: 1697.11
+   Max Route Duration: 2535 ?
+   Capacity: Fresh=708/1000, Frozen=246/0 ?
+   ROUTE FEASIBILITY: FEASIBLE ?
+   Total Route Time: 1660
+
+Vehicle 5 (Fresh)
+Route: Depot(0) -> Customer 84
+   Travel Time: 51.0392
+   Arrival: 51.0392 (Ready: 51, Due: 651) ?
+   Wait Time: 0
+   Service: 10 units (51.0392 to 61.0392)
+ -> Customer 199
+   Travel Time: 6.32456
+   Arrival: 67.3638 (Ready: 56, Due: 656) ?
+   Wait Time: 0
+   Service: 10 units (67.3638 to 77.3638)
+ -> Customer 127
+   Travel Time: 2.82843
+   Arrival: 80.1922 (Ready: 55, Due: 655) ?
+   Wait Time: 0
+   Service: 10 units (80.1922 to 90.1922)
+ -> Customer 118
+   Travel Time: 10.6301
+   Arrival: 100.822 (Ready: 103, Due: 703) ?
+   Wait Time: 2.17767
+   Service: 10 units (103 to 113)
+ -> Customer 105
+   Travel Time: 10.4403
+   Arrival: 123.44 (Ready: 185, Due: 785) ?
+   Wait Time: 61.5597
+   Service: 10 units (185 to 195)
+ -> Customer 88
+   Travel Time: 13.6015
+   Arrival: 208.601 (Ready: 52, Due: 652) ?
+   Wait Time: 0
+   Service: 10 units (208.601 to 218.601)
+ -> Customer 165
+   Travel Time: 74.027
+   Arrival: 292.628 (Ready: 65, Due: 665) ?
+   Wait Time: 0
+   Service: 10 units (292.628 to 302.628)
+ -> Customer 108
+   Travel Time: 5.38516
+   Arrival: 308.014 (Ready: 147, Due: 747) ?
+   Wait Time: 0
+   Service: 10 units (308.014 to 318.014)
+ -> Customer 117
+   Travel Time: 4.47214
+   Arrival: 322.486 (Ready: 347, Due: 947) ?
+   Wait Time: 24.5142
+   Service: 10 units (347 to 357)
+ -> Customer 23
+   Travel Time: 2
+   Arrival: 359 (Ready: 299, Due: 899) ?
+   Wait Time: 0
+   Service: 10 units (359 to 369)
+ -> Customer 38
+   Travel Time: 4.12311
+   Arrival: 373.123 (Ready: 199, Due: 799) ?
+   Wait Time: 0
+   Service: 10 units (373.123 to 383.123)
+ -> Customer 56
+   Travel Time: 4.12311
+   Arrival: 387.246 (Ready: 101, Due: 701) ?
+   Wait Time: 0
+   Service: 10 units (387.246 to 397.246)
+ -> Customer 188
+   Travel Time: 29.1204
+   Arrival: 426.367 (Ready: 229, Due: 829) ?
+   Wait Time: 0
+   Service: 10 units (426.367 to 436.367)
+ -> Customer 29
+   Travel Time: 1
+   Arrival: 437.367 (Ready: 273, Due: 873) ?
+   Wait Time: 0
+   Service: 10 units (437.367 to 447.367)
+ -> Customer 21
+   Travel Time: 5
+   Arrival: 452.367 (Ready: 381, Due: 981) ?
+   Wait Time: 0
+   Service: 10 units (452.367 to 462.367)
+ -> Customer 166
+   Travel Time: 6.08276
+   Arrival: 468.449 (Ready: 446, Due: 1046) ?
+   Wait Time: 0
+   Service: 10 units (468.449 to 478.449)
+ -> Customer 133
+   Travel Time: 31.8904
+   Arrival: 510.34 (Ready: 42, Due: 642) ?
+   Wait Time: 0
+   Service: 10 units (510.34 to 520.34)
+ -> Customer 147
+   Travel Time: 1
+   Arrival: 521.34 (Ready: 43, Due: 643) ?
+   Wait Time: 0
+   Service: 10 units (521.34 to 531.34)
+ -> Customer 119
+   Travel Time: 5.83095
+   Arrival: 537.171 (Ready: 180, Due: 780) ?
+   Wait Time: 0
+   Service: 10 units (537.171 to 547.171)
+ -> Customer 169
+   Travel Time: 13.4164
+   Arrival: 560.587 (Ready: 37, Due: 637) ?
+   Wait Time: 0
+   Service: 10 units (560.587 to 570.587)
+ -> Customer 156
+   Travel Time: 21.095
+   Arrival: 591.682 (Ready: 41, Due: 641) ?
+   Wait Time: 0
+   Service: 10 units (591.682 to 601.682)
+ -> Customer 184
+   Travel Time: 10.198
+   Arrival: 611.88 (Ready: 205, Due: 805) ?
+   Wait Time: 0
+   Service: 10 units (611.88 to 621.88)
+ -> Customer 167
+   Travel Time: 10.0499
+   Arrival: 631.93 (Ready: 55, Due: 655) ?
+   Wait Time: 0
+   Service: 10 units (631.93 to 641.93)
+ -> Customer 61
+   Travel Time: 27.8927
+   Arrival: 669.823 (Ready: 162, Due: 762) ?
+   Wait Time: 0
+   Service: 10 units (669.823 to 679.823)
+ -> Customer 41
+   Travel Time: 47.5079
+   Arrival: 727.331 (Ready: 711, Due: 1311) ?
+   Wait Time: 0
+   Service: 10 units (727.331 to 737.331)
+ -> Customer 129
+   Travel Time: 8.60233
+   Arrival: 745.933 (Ready: 478, Due: 1078) ?
+   Wait Time: 0
+   Service: 10 units (745.933 to 755.933)
+ -> Customer 55
+   Travel Time: 9.05539
+   Arrival: 764.988 (Ready: 892, Due: 1492) ?
+   Wait Time: 127.012
+   Service: 10 units (892 to 902)
+ -> Customer 81
+   Travel Time: 9.89949
+   Arrival: 911.899 (Ready: 971, Due: 1571) ?
+   Wait Time: 59.1005
+   Service: 10 units (971 to 981)
+ -> Customer 82
+   Travel Time: 28.2312
+   Arrival: 1009.23 (Ready: 1185, Due: 1785) ?
+   Wait Time: 175.769
+   Service: 10 units (1185 to 1195)
+ -> Customer 154
+   Travel Time: 8.24621
+   Arrival: 1203.25 (Ready: 1258, Due: 1858) ?
+   Wait Time: 54.7538
+   Service: 10 units (1258 to 1268)
+ -> Depot(0)
+   Return Travel Time: 18.868
+   Return to Depot: 1286.87
+   Max Route Duration: 2535 ?
+   Capacity: Fresh=486/950, Frozen=166/0 ?
+   ROUTE FEASIBILITY: FEASIBLE ?
+   Total Route Time: 1268
+
+Vehicle 2 (Fresh)
+Route: Depot(0) -> Customer 4
+   Travel Time: 9.21954
+   Arrival: 9.21954 (Ready: 9, Due: 609) ?
+   Wait Time: 0
+   Service: 10 units (9.21954 to 19.2195)
+ -> Customer 92
+   Travel Time: 6.7082
+   Arrival: 25.9277 (Ready: 15, Due: 615) ?
+   Wait Time: 0
+   Service: 10 units (25.9277 to 35.9277)
+ -> Customer 24
+   Travel Time: 31.4006
+   Arrival: 67.3284 (Ready: 32, Due: 632) ?
+   Wait Time: 0
+   Service: 10 units (67.3284 to 77.3284)
+ -> Customer 48
+   Travel Time: 5.83095
+   Arrival: 83.1593 (Ready: 35, Due: 635) ?
+   Wait Time: 0
+   Service: 10 units (83.1593 to 93.1593)
+ -> Customer 124
+   Travel Time: 4.12311
+   Arrival: 97.2824 (Ready: 39, Due: 639) ?
+   Wait Time: 0
+   Service: 10 units (97.2824 to 107.282)
+ -> Customer 183
+   Travel Time: 10.7703
+   Arrival: 118.053 (Ready: 142, Due: 742) ?
+   Wait Time: 23.9472
+   Service: 10 units (142 to 152)
+ -> Customer 102
+   Travel Time: 5
+   Arrival: 157 (Ready: 43, Due: 643) ?
+   Wait Time: 0
+   Service: 10 units (157 to 167)
+ -> Customer 131
+   Travel Time: 7.2111
+   Arrival: 174.211 (Ready: 36, Due: 636) ?
+   Wait Time: 0
+   Service: 10 units (174.211 to 184.211)
+ -> Customer 14
+   Travel Time: 29.4109
+   Arrival: 213.622 (Ready: 30, Due: 630) ?
+   Wait Time: 0
+   Service: 10 units (213.622 to 223.622)
+ -> Customer 132
+   Travel Time: 4.47214
+   Arrival: 228.094 (Ready: 88, Due: 688) ?
+   Wait Time: 0
+   Service: 10 units (228.094 to 238.094)
+ -> Customer 78
+   Travel Time: 2.23607
+   Arrival: 240.33 (Ready: 137, Due: 737) ?
+   Wait Time: 0
+   Service: 10 units (240.33 to 250.33)
+ -> Customer 162
+   Travel Time: 10.8167
+   Arrival: 261.147 (Ready: 31, Due: 631) ?
+   Wait Time: 0
+   Service: 10 units (261.147 to 271.147)
+ -> Customer 63
+   Travel Time: 11.7047
+   Arrival: 282.852 (Ready: 42, Due: 642) ?
+   Wait Time: 0
+   Service: 10 units (282.852 to 292.852)
+ -> Customer 47
+   Travel Time: 22.3607
+   Arrival: 315.212 (Ready: 30, Due: 630) ?
+   Wait Time: 0
+   Service: 10 units (315.212 to 325.212)
+ -> Customer 161
+   Travel Time: 47.0106
+   Arrival: 372.223 (Ready: 237, Due: 837) ?
+   Wait Time: 0
+   Service: 10 units (372.223 to 382.223)
+ -> Customer 98
+   Travel Time: 5
+   Arrival: 387.223 (Ready: 136, Due: 736) ?
+   Wait Time: 0
+   Service: 10 units (387.223 to 397.223)
+ -> Customer 16
+   Travel Time: 1.41421
+   Arrival: 398.637 (Ready: 90, Due: 690) ?
+   Wait Time: 0
+   Service: 10 units (398.637 to 408.637)
+ -> Customer 32
+   Travel Time: 47.4342
+   Arrival: 456.071 (Ready: 243, Due: 843) ?
+   Wait Time: 0
+   Service: 10 units (456.071 to 466.071)
+ -> Customer 112
+   Travel Time: 13.4164
+   Arrival: 479.488 (Ready: 359, Due: 959) ?
+   Wait Time: 0
+   Service: 10 units (479.488 to 489.488)
+ -> Customer 189
+   Travel Time: 7.61577
+   Arrival: 497.103 (Ready: 418, Due: 1018) ?
+   Wait Time: 0
+   Service: 10 units (497.103 to 507.103)
+ -> Customer 65
+   Travel Time: 12.0416
+   Arrival: 519.145 (Ready: 212, Due: 812) ?
+   Wait Time: 0
+   Service: 10 units (519.145 to 529.145)
+ -> Customer 155
+   Travel Time: 45.5412
+   Arrival: 574.686 (Ready: 62, Due: 662) ?
+   Wait Time: 0
+   Service: 10 units (574.686 to 584.686)
+ -> Customer 144
+   Travel Time: 27.6586
+   Arrival: 612.345 (Ready: 599, Due: 1199) ?
+   Wait Time: 0
+   Service: 10 units (612.345 to 622.345)
+ -> Customer 69
+   Travel Time: 30.1496
+   Arrival: 652.494 (Ready: 245, Due: 845) ?
+   Wait Time: 0
+   Service: 10 units (652.494 to 662.494)
+ -> Customer 176
+   Travel Time: 2.82843
+   Arrival: 665.323 (Ready: 296, Due: 896) ?
+   Wait Time: 0
+   Service: 10 units (665.323 to 675.323)
+ -> Customer 113
+   Travel Time: 2.82843
+   Arrival: 678.151 (Ready: 348, Due: 948) ?
+   Wait Time: 0
+   Service: 10 units (678.151 to 688.151)
+ -> Customer 191
+   Travel Time: 2.23607
+   Arrival: 690.387 (Ready: 397, Due: 997) ?
+   Wait Time: 0
+   Service: 10 units (690.387 to 700.387)
+ -> Customer 58
+   Travel Time: 3.16228
+   Arrival: 703.55 (Ready: 449, Due: 1049) ?
+   Wait Time: 0
+   Service: 10 units (703.55 to 713.55)
+ -> Customer 134
+   Travel Time: 3
+   Arrival: 716.55 (Ready: 501, Due: 1101) ?
+   Wait Time: 0
+   Service: 10 units (716.55 to 726.55)
+ -> Customer 89
+   Travel Time: 47.0106
+   Arrival: 773.56 (Ready: 177, Due: 777) ?
+   Wait Time: 0
+   Service: 10 units (773.56 to 783.56)
+ -> Customer 139
+   Travel Time: 8.94427
+   Arrival: 792.505 (Ready: 329, Due: 929) ?
+   Wait Time: 0
+   Service: 10 units (792.505 to 802.505)
+ -> Customer 86
+   Travel Time: 28.2843
+   Arrival: 830.789 (Ready: 459, Due: 1059) ?
+   Wait Time: 0
+   Service: 10 units (830.789 to 840.789)
+ -> Customer 50
+   Travel Time: 15.2971
+   Arrival: 856.086 (Ready: 788, Due: 1388) ?
+   Wait Time: 0
+   Service: 10 units (856.086 to 866.086)
+ -> Customer 192
+   Travel Time: 13.8924
+   Arrival: 879.978 (Ready: 649, Due: 1249) ?
+   Wait Time: 0
+   Service: 10 units (879.978 to 889.978)
+ -> Customer 160
+   Travel Time: 11.0454
+   Arrival: 901.024 (Ready: 320, Due: 920) ?
+   Wait Time: 0
+   Service: 10 units (901.024 to 911.024)
+ -> Customer 125
+   Travel Time: 6.08276
+   Arrival: 917.106 (Ready: 467, Due: 1067) ?
+   Wait Time: 0
+   Service: 10 units (917.106 to 927.106)
+ -> Customer 87
+   Travel Time: 68.9638
+   Arrival: 996.07 (Ready: 687, Due: 1287) ?
+   Wait Time: 0
+   Service: 10 units (996.07 to 1006.07)
+ -> Customer 17
+   Travel Time: 6
+   Arrival: 1012.07 (Ready: 1041, Due: 1641) ?
+   Wait Time: 28.9298
+   Service: 10 units (1041 to 1051)
+ -> Customer 174
+   Travel Time: 23.1948
+   Arrival: 1074.19 (Ready: 1031, Due: 1631) ?
+   Wait Time: 0
+   Service: 10 units (1074.19 to 1084.19)
+ -> Customer 79
+   Travel Time: 42.5793
+   Arrival: 1126.77 (Ready: 885, Due: 1485) ?
+   Wait Time: 0
+   Service: 10 units (1126.77 to 1136.77)
+ -> Customer 90
+   Travel Time: 41.0122
+   Arrival: 1177.79 (Ready: 681, Due: 1281) ?
+   Wait Time: 0
+   Service: 10 units (1177.79 to 1187.79)
+ -> Customer 178
+   Travel Time: 13.4164
+   Arrival: 1201.2 (Ready: 964, Due: 1564) ?
+   Wait Time: 0
+   Service: 10 units (1201.2 to 1211.2)
+ -> Customer 36
+   Travel Time: 5.09902
+   Arrival: 1216.3 (Ready: 1881, Due: 2481) ?
+   Wait Time: 664.698
+   Service: 10 units (1881 to 1891)
+ -> Customer 67
+   Travel Time: 57.3847
+   Arrival: 1948.38 (Ready: 1764, Due: 2364) ?
+   Wait Time: 0
+   Service: 10 units (1948.38 to 1958.38)
+ -> Customer 30
+   Travel Time: 15.2643
+   Arrival: 1973.65 (Ready: 1700, Due: 2300) ?
+   Wait Time: 0
+   Service: 10 units (1973.65 to 1983.65)
+ -> Customer 64
+   Travel Time: 11.1803
+   Arrival: 1994.83 (Ready: 1686, Due: 2286) ?
+   Wait Time: 0
+   Service: 10 units (1994.83 to 2004.83)
+ -> Depot(0)
+   Return Travel Time: 17.2047
+   Return to Depot: 2022.03
+   Max Route Duration: 2535 ?
+   Capacity: Fresh=680/950, Frozen=232/0 ?
+   ROUTE FEASIBILITY: FEASIBLE ?
+   Total Route Time: 2004.83
+
+Vehicle 12 (Fresh)
+Route: Depot(0) -> Customer 163
+   Travel Time: 14.4222
+   Arrival: 14.4222 (Ready: 14, Due: 614) ?
+   Wait Time: 0
+   Service: 10 units (14.4222 to 24.4222)
+ -> Customer 28
+   Travel Time: 1.41421
+   Arrival: 25.8364 (Ready: 14, Due: 614) ?
+   Wait Time: 0
+   Service: 10 units (25.8364 to 35.8364)
+ -> Customer 6
+   Travel Time: 3.60555
+   Arrival: 39.442 (Ready: 18, Due: 618) ?
+   Wait Time: 0
+   Service: 10 units (39.442 to 49.442)
+ -> Customer 172
+   Travel Time: 41.2311
+   Arrival: 90.673 (Ready: 55, Due: 655) ?
+   Wait Time: 0
+   Service: 10 units (90.673 to 100.673)
+ -> Customer 197
+   Travel Time: 4.12311
+   Arrival: 104.796 (Ready: 59, Due: 659) ?
+   Wait Time: 0
+   Service: 10 units (104.796 to 114.796)
+ -> Customer 5
+   Travel Time: 4.12311
+   Arrival: 118.919 (Ready: 84, Due: 684) ?
+   Wait Time: 0
+   Service: 10 units (118.919 to 128.919)
+ -> Customer 62
+   Travel Time: 1
+   Arrival: 129.919 (Ready: 128, Due: 728) ?
+   Wait Time: 0
+   Service: 10 units (129.919 to 139.919)
+ -> Customer 26
+   Travel Time: 1.41421
+   Arrival: 141.333 (Ready: 173, Due: 773) ?
+   Wait Time: 31.6665
+   Service: 10 units (173 to 183)
+ -> Customer 138
+   Travel Time: 3.60555
+   Arrival: 186.606 (Ready: 357, Due: 957) ?
+   Wait Time: 170.394
+   Service: 10 units (357 to 367)
+ -> Customer 170
+   Travel Time: 35.3553
+   Arrival: 402.355 (Ready: 163, Due: 763) ?
+   Wait Time: 0
+   Service: 10 units (402.355 to 412.355)
+ -> Customer 200
+   Travel Time: 48.8467
+   Arrival: 461.202 (Ready: 48, Due: 648) ?
+   Wait Time: 0
+   Service: 10 units (461.202 to 471.202)
+ -> Customer 103
+   Travel Time: 19.2354
+   Arrival: 490.437 (Ready: 92, Due: 692) ?
+   Wait Time: 0
+   Service: 10 units (490.437 to 500.437)
+ -> Customer 110
+   Travel Time: 28.0179
+   Arrival: 528.455 (Ready: 520, Due: 1120) ?
+   Wait Time: 0
+   Service: 10 units (528.455 to 538.455)
+ -> Customer 7
+   Travel Time: 5.65685
+   Arrival: 544.112 (Ready: 51, Due: 651) ?
+   Wait Time: 0
+   Service: 10 units (544.112 to 554.112)
+ -> Customer 68
+   Travel Time: 3
+   Arrival: 557.112 (Ready: 52, Due: 652) ?
+   Wait Time: 0
+   Service: 10 units (557.112 to 567.112)
+ -> Customer 152
+   Travel Time: 18.4391
+   Arrival: 585.551 (Ready: 42, Due: 642) ?
+   Wait Time: 0
+   Service: 10 units (585.551 to 595.551)
+ -> Customer 196
+   Travel Time: 10.7703
+   Arrival: 606.322 (Ready: 63, Due: 663) ?
+   Wait Time: 0
+   Service: 10 units (606.322 to 616.322)
+ -> Customer 15
+   Travel Time: 5.38516
+   Arrival: 621.707 (Ready: 49, Due: 649) ?
+   Wait Time: 0
+   Service: 10 units (621.707 to 631.707)
+ -> Customer 179
+   Travel Time: 1
+   Arrival: 632.707 (Ready: 49, Due: 649) ?
+   Wait Time: 0
+   Service: 10 units (632.707 to 642.707)
+ -> Customer 18
+   Travel Time: 2
+   Arrival: 644.707 (Ready: 89, Due: 689) ?
+   Wait Time: 0
+   Service: 10 units (644.707 to 654.707)
+ -> Customer 190
+   Travel Time: 9.21954
+   Arrival: 663.926 (Ready: 143, Due: 743) ?
+   Wait Time: 0
+   Service: 10 units (663.926 to 673.926)
+ -> Customer 27
+   Travel Time: 5.38516
+   Arrival: 679.311 (Ready: 336, Due: 936) ?
+   Wait Time: 0
+   Service: 10 units (679.311 to 689.311)
+ -> Customer 51
+   Travel Time: 10.4403
+   Arrival: 699.752 (Ready: 311, Due: 911) ?
+   Wait Time: 0
+   Service: 10 units (699.752 to 709.752)
+ -> Customer 44
+   Travel Time: 21.4709
+   Arrival: 731.223 (Ready: 585, Due: 1185) ?
+   Wait Time: 0
+   Service: 10 units (731.223 to 741.223)
+ -> Customer 95
+   Travel Time: 12.8062
+   Arrival: 754.029 (Ready: 655, Due: 1255) ?
+   Wait Time: 0
+   Service: 10 units (754.029 to 764.029)
+ -> Customer 116
+   Travel Time: 8.06226
+   Arrival: 772.091 (Ready: 955, Due: 1555) ?
+   Wait Time: 182.909
+   Service: 10 units (955 to 965)
+ -> Customer 80
+   Travel Time: 15.0333
+   Arrival: 980.033 (Ready: 855, Due: 1455) ?
+   Wait Time: 0
+   Service: 10 units (980.033 to 990.033)
+ -> Customer 126
+   Travel Time: 20.8806
+   Arrival: 1010.91 (Ready: 956, Due: 1556) ?
+   Wait Time: 0
+   Service: 10 units (1010.91 to 1020.91)
+ -> Customer 158
+   Travel Time: 38.3275
+   Arrival: 1059.24 (Ready: 1065, Due: 1665) ?
+   Wait Time: 5.75855
+   Service: 10 units (1065 to 1075)
+ -> Customer 194
+   Travel Time: 4
+   Arrival: 1079 (Ready: 791, Due: 1391) ?
+   Wait Time: 0
+   Service: 10 units (1079 to 1089)
+ -> Customer 66
+   Travel Time: 28.6007
+   Arrival: 1117.6 (Ready: 1248, Due: 1848) ?
+   Wait Time: 130.399
+   Service: 10 units (1248 to 1258)
+ -> Customer 121
+   Travel Time: 35.3836
+   Arrival: 1293.38 (Ready: 906, Due: 1506) ?
+   Wait Time: 0
+   Service: 10 units (1293.38 to 1303.38)
+ -> Customer 115
+   Travel Time: 10
+   Arrival: 1313.38 (Ready: 999, Due: 1599) ?
+   Wait Time: 0
+   Service: 10 units (1313.38 to 1323.38)
+ -> Customer 123
+   Travel Time: 48.0104
+   Arrival: 1371.39 (Ready: 925, Due: 1525) ?
+   Wait Time: 0
+   Service: 10 units (1371.39 to 1381.39)
+ -> Customer 75
+   Travel Time: 27.074
+   Arrival: 1408.47 (Ready: 1731, Due: 2331) ?
+   Wait Time: 322.532
+   Service: 10 units (1731 to 1741)
+ -> Customer 60
+   Travel Time: 24.0832
+   Arrival: 1765.08 (Ready: 1365, Due: 1965) ?
+   Wait Time: 0
+   Service: 10 units (1765.08 to 1775.08)
+ -> Customer 1
+   Travel Time: 2.23607
+   Arrival: 1777.32 (Ready: 1402, Due: 2002) ?
+   Wait Time: 0
+   Service: 10 units (1777.32 to 1787.32)
+ -> Customer 97
+   Travel Time: 25.318
+   Arrival: 1812.64 (Ready: 1543, Due: 2143) ?
+   Wait Time: 0
+   Service: 10 units (1812.64 to 1822.64)
+ -> Customer 175
+   Travel Time: 18.0278
+   Arrival: 1840.66 (Ready: 1889, Due: 2489) ?
+   Wait Time: 48.335
+   Service: 10 units (1889 to 1899)
+ -> Depot(0)
+   Return Travel Time: 36.0555
+   Return to Depot: 1935.06
+   Max Route Duration: 2535 ?
+   Capacity: Fresh=676/950, Frozen=233/0 ?
+   ROUTE FEASIBILITY: FEASIBLE ?
+   Total Route Time: 1899
+
+=== OVERALL FEASIBILITY CHECK ===
